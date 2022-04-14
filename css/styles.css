@@ -82,11 +82,11 @@ nav-bar {
   padding: 0 6px;
 }
 /*-----------slider Product-page---------*/
-.slider {
+/*.slider {
   width: 50%;
   height: 50%;
   margin-left: 25%;
-}
+}*/
 
 .carousel {
   box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.5);

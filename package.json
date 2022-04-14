@@ -1,0 +1,26 @@
+{
+  "name": "amour-hairstyle-website",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chukwu12/Hair-style-website.git"
+  },
+  "author": "Okechukwu Egeruoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chukwu12/Hair-style-website/issues"
+  },
+  "homepage": "https://github.com/Chukwu12/Hair-style-website#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
